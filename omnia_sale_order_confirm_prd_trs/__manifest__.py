@@ -25,7 +25,7 @@
 #
 {
     'name': 'omnia_sale_order_confirm_prd_trs',
-    'version': '12.0.1',
+    'version': '12.0.1.0.0',
     'category': 'Custom',
     'sequence':1,
     'short_desc': 'Omnia Sale Order Confirm Product Transfer',
