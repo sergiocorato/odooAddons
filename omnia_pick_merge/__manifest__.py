@@ -49,6 +49,6 @@ merge picking
              #'security/ddt_groups.xml',
              ],
     'installable': True,
-    'application': True,
+    'application': False,
     'auto_install': False,
 }
